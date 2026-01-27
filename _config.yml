@@ -23,7 +23,7 @@ repository               : "mkdatar/mkdatar.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "PhotoID_DATAR.jpg"
   name             : "Mandar Datar"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"

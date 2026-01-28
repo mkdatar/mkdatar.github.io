@@ -2,9 +2,9 @@
 title: "Two-Tier Marketplace with Multi-Resource Bidding and Strategic Pricing for Multi-QoS Services"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-21-04-paper-title-number-2
+permalink: /publication/2025-04-21-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2025-21-04
+date: 2025-04-21
 venue: 'Two-Tier Marketplace with Multi-Resource Bidding and Strategic Pricing for Multi-QoS Services'
 slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://academicpages.github.io/files/paper2.pdf'

@@ -6,7 +6,6 @@ permalink: /publication/2025-11-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-11-01
 venue: 'IEEE Transactions on Automatic Control'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'H. Le Cadre, M. Datar, M. Guckert and E. Altman, "Learning Market Equilibria Preserving Statistical Privacy Using Performative Prediction," in IEEE Transactions on Automatic Control, vol. 70, no. 11, pp. 7125-7140, Nov. 2025, doi: 10.1109/TAC.2025.3566920'

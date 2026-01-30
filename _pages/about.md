@@ -1,5 +1,6 @@
 ---
 layout: home
+show_sidebar: true
 author_profile: true
 permalink: /
 ---

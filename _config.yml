@@ -27,8 +27,8 @@ author:
   name             : "Mandar Datar"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : #"Earth"
-  employer         : #"Red Brick University"
+  location         : Grenoble
+  employer         : CEA-Leti
   uri              : # URL
   email            : "mandar.k.datar@gmail.com" 
 
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=_jB6MoEAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : #"https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-0700-3816"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

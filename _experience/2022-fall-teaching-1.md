@@ -2,7 +2,7 @@
 title: "Postdoctoral Researcher"
 collection: teaching
 type: "Research Experience"
-permalink: /teaching/2022-fall-inria
+permalink: /experience/2022-fall-inria
 venue: "Inria – Université Côte d’Azur"
 date: 2022-09-01
 location: "Sophia Antipolis, France"

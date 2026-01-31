@@ -2,7 +2,7 @@
 title: "Research Engineer"
 collection: teaching
 type: "Research & Teaching Experience"
-permalink: /teaching/2024-spring-cea-leti
+permalink: /experience/2024-spring-cea-leti
 venue: "CEA-Leti"
 date: 2024-04-01
 location: "Grenoble, France"

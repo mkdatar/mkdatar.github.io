@@ -2,7 +2,7 @@
 title: "Assistant Professor"
 collection: teaching
 type: "Undergraduate Teaching"
-permalink: /teaching/2013-fall-vjti
+permalink: /experience/2013-fall-vjti
 venue: "Veermata Jijabai Technological Institute (VJTI)"
 date: 2013-08-01
 location: "Mumbai, India"

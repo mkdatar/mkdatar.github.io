@@ -7,5 +7,6 @@ excerpt: "Comparison of static and dynamic pricing strategies in ride-sharing pl
 date: 2019-01-07
 venue: "International Conference on Communication Systems and Networks (COMSNETS)"
 paperurl: "https://doi.org/10.1109/COMSNETS.2019.8711391"
+bibtexurl: "/files/cites/pandit2019pricing.bib"
 citation: "Vivek Pandit, Mandar Datar, Manjesh Hanawal, Sharayu Moharir. (2019). &quot;Pricing in Ride-Sharing Platforms: Static vs. Dynamic Strategies.&quot; <i>COMSNETS</i>, Bengaluru, India."
 ---

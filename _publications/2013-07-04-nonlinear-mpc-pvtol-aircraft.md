@@ -7,5 +7,6 @@ excerpt: "Nonlinear model predictive control of a PVTOL aircraft subject to stat
 date: 2013-07-04
 venue: "Advances in Robotics (AIR-2013)"
 paperurl: "https://dl.acm.org/doi/10.1145/2506095.2506123"
+bibtexurl: "/files/cites/gupta2013nonlinear.bib"
 citation: "Manas Mejari, Ankit Gupta, Vishwanath Ketkar, <b>Mandar Datar</b>, N. M. Singh (2013). &quot;Nonlinear Model Predictive Control of PVTOL Aircraft under State and Input Constraints.&quot; <i>Proceedings of Advances in Robotics (AIR-2013)</i>, Pune, India."
 ---

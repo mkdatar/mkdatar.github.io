@@ -7,5 +7,6 @@ excerpt: "Performative prediction methods for learning market equilibria with pr
 date: 2023-06-13
 venue: "European Control Conference (ECC)"
 paperurl: "https://hal.inria.fr/hal-03816949/document"
+bibtexurl: "/files/cites/taisant2023learning.bib"
 citation: "Raphaël Taisant, Mandar Datar, Hélène Le Cadre, Eitan Altman. (2023). &quot;Learning Market Equilibria Using Performative Prediction: Balancing Efficiency and Privacy.&quot; <i>ECC</i>, Bucharest, Romania."
 ---
